@@ -1,0 +1,24 @@
+{
+  "name": "msppsm",
+  "version": "1.0.0",
+  "description": "An open-source project integrating simple-counter-js and spft-tea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liztheford/msppsm.git"
+  },
+  "keywords": [
+    "opensource",
+    "simple-counter-js",
+    "spft-tea"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "simple-counter-js": "1.1.0",
+    "spft-tea": "1.0.2"
+  }
+}
